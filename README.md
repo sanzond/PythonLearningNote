@@ -12,3 +12,4 @@
 5. Python语言：if语句 #5：https://github.com/YeJiu97/PythonLearningNote/issues/5
 6. Python语言：字典 #6：https://github.com/YeJiu97/PythonLearningNote/issues/6
 7. Python语言：用户输入和while循环 #7：https://github.com/YeJiu97/PythonLearningNote/issues/7
+8. Python语言：函数 #8：https://github.com/YeJiu97/PythonLearningNote/issues/8
