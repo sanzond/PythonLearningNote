@@ -14,3 +14,4 @@
 7. Python语言：用户输入和while循环 #7：https://github.com/YeJiu97/PythonLearningNote/issues/7
 8. Python语言：函数 #8：https://github.com/YeJiu97/PythonLearningNote/issues/8
 9. Python语言：类 #9：https://github.com/YeJiu97/PythonLearningNote/issues/9
+10. Python语言：文件 #10：https://github.com/YeJiu97/PythonLearningNote/issues/10
