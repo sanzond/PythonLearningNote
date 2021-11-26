@@ -15,3 +15,7 @@
 8. Python语言：函数 #8：https://github.com/YeJiu97/PythonLearningNote/issues/8
 9. Python语言：类 #9：https://github.com/YeJiu97/PythonLearningNote/issues/9
 10. Python语言：文件 #10：https://github.com/YeJiu97/PythonLearningNote/issues/10
+
+# Python项目：外星人入侵
+已下为对该项目进行的Python语言实现：
+1. Python项目：外星人入侵——武装飞船 #11：https://github.com/YeJiu97/PythonLearningNote/issues/11
