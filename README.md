@@ -4,7 +4,8 @@
 3. 本仓库在Gitee的地址：https://gitee.com/yejiu97/python-learning-note#https://gitee.com/yejiu97/python-learning-note/issues/I4JCG8
 
 # Python 基础语法
-以下为Python语言的基础语法：
+**以下为Python语言基础语法的笔记：**
+
 1. Python语言：环境搭建 #1：https://github.com/YeJiu97/PythonLearningNote/issues/1
 2. Python语言：变量和简单数据类型 #2：https://github.com/YeJiu97/PythonLearningNote/issues/2
 3. Python语言：列表 #3：https://github.com/YeJiu97/PythonLearningNote/issues/3
@@ -15,6 +16,10 @@
 8. Python语言：函数 #8：https://github.com/YeJiu97/PythonLearningNote/issues/8
 9. Python语言：类 #9：https://github.com/YeJiu97/PythonLearningNote/issues/9
 10. Python语言：文件 #10：https://github.com/YeJiu97/PythonLearningNote/issues/10
+
+**将会添加关于Python语言的异常检测和测试的笔记：**
+1. Python语言：异常检测： **等待添加**
+2. Python语言：测试： **等待添加**
 
 # Python项目：外星人入侵
 已下为对该项目进行的Python语言实现：
