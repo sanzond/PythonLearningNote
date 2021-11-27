@@ -15,9 +15,6 @@
 11. Python语言：异常检测：https://github.com/YeJiu97/PythonLearningNote/issues/14
 12. Python语言：测试代码：https://github.com/YeJiu97/PythonLearningNote/issues/15
 
-**将会添加关于Python语言的异常检测和测试的笔记：**
-1. Python语言：测试： **等待添加**
-
 # Python项目：外星人入侵
 已下为对该项目进行的Python语言实现：
 1. Python项目：外星人入侵——武装飞船 #11：https://github.com/YeJiu97/PythonLearningNote/issues/11
