@@ -13,6 +13,7 @@
 9. Python语言：类 #9：https://github.com/YeJiu97/PythonLearningNote/issues/9
 10. Python语言：文件 #10：https://github.com/YeJiu97/PythonLearningNote/issues/10
 11. Python语言：异常检测：https://github.com/YeJiu97/PythonLearningNote/issues/14
+12. Python语言：测试代码：https://github.com/YeJiu97/PythonLearningNote/issues/15
 
 **将会添加关于Python语言的异常检测和测试的笔记：**
 1. Python语言：测试： **等待添加**
