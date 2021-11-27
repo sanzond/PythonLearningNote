@@ -1,7 +1,3 @@
-# 前言
-1. 关于本仓库：记录学习Python语言的时候的笔记
-2. 本仓库的内容的博客：https://onewayoneheart.xyz/archives/600
-3. 本仓库在Gitee的地址：https://gitee.com/yejiu97/python-learning-note#https://gitee.com/yejiu97/python-learning-note/issues/I4JCG8
 
 # Python 基础语法
 **以下为Python语言基础语法的笔记：**
@@ -16,10 +12,10 @@
 8. Python语言：函数 #8：https://github.com/YeJiu97/PythonLearningNote/issues/8
 9. Python语言：类 #9：https://github.com/YeJiu97/PythonLearningNote/issues/9
 10. Python语言：文件 #10：https://github.com/YeJiu97/PythonLearningNote/issues/10
+11. Python语言：异常检测：https://github.com/YeJiu97/PythonLearningNote/issues/14
 
 **将会添加关于Python语言的异常检测和测试的笔记：**
-1. Python语言：异常检测： **等待添加**
-2. Python语言：测试： **等待添加**
+1. Python语言：测试： **等待添加**
 
 # Python项目：外星人入侵
 已下为对该项目进行的Python语言实现：
