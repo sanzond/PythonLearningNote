@@ -12,10 +12,10 @@
 8. Python语言：函数 #8：https://github.com/YeJiu97/PythonLearningNote/issues/8
 9. Python语言：类 #9：https://github.com/YeJiu97/PythonLearningNote/issues/9
 10. Python语言：文件 #10：https://github.com/YeJiu97/PythonLearningNote/issues/10
+11. Python语言：异常检测：https://github.com/YeJiu97/PythonLearningNote/issues/14
 
 **将会添加关于Python语言的异常检测和测试的笔记：**
-1. Python语言：异常检测： **等待添加**
-2. Python语言：测试： **等待添加**
+1. Python语言：测试： **等待添加**
 
 # Python项目：外星人入侵
 已下为对该项目进行的Python语言实现：
