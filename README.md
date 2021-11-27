@@ -22,10 +22,13 @@
 
 
 # Python项目：外星人入侵
-已下为对该项目进行的Python语言实现：
+
+**以下为对该项目进行的Python语言实现：**
 1. Python项目：外星人入侵——武装飞船 #11：https://github.com/YeJiu97/PythonLearningNote/issues/11
 
 
+
 # Python数据可视化
-一下内容涉及Python语言的数据生成，数据读取，数据可视化等方面的知识：
+
+**以下内容涉及Python语言的数据生成，数据读取，数据可视化等方面的知识：**
 1. Python数据可视化：生成数据 #13：https://github.com/YeJiu97/PythonLearningNote/issues/13
