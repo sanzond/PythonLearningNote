@@ -35,3 +35,4 @@
 
 **以下内容涉及Python语言的数据生成，数据读取，数据可视化等方面的知识：**
 1. Python数据可视化：生成数据 #13：https://github.com/YeJiu97/PythonLearningNote/issues/13
+2. Python数据可视化：下载数据 #16：https://github.com/YeJiu97/PythonLearningNote/issues/16
