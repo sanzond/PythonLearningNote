@@ -23,6 +23,7 @@
 
 **以下为对该项目进行的Python语言实现：**
 1. Python项目：外星人入侵——武装飞船 #11：https://github.com/YeJiu97/PythonLearningNote/issues/11
+2. Python项目：外星人入侵——外星人 #17：https://github.com/YeJiu97/PythonLearningNote/issues/17
 
 
 
