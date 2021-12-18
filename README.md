@@ -2,8 +2,6 @@
 # Python 基础语法
 **以下为Python语言基础语法的笔记：**
 
-**Python语言语法笔记：**
-
 1. Python语言：环境搭建 #1：https://github.com/YeJiu97/PythonLearningNote/issues/1
 2. Python语言：变量和简单数据类型 #2：https://github.com/YeJiu97/PythonLearningNote/issues/2
 3. Python语言：列表 #3：https://github.com/YeJiu97/PythonLearningNote/issues/3
